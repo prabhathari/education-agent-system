@@ -14,6 +14,7 @@ An intelligent tutoring system powered by multiple AI agents that work together 
 - **📈 Progress Analytics**: Comprehensive tracking of learning journey
 
 ## 🏗️ System Architecture
+```
 User Interface (React)
 ↓
 FastAPI Backend
@@ -28,8 +29,9 @@ Orchestrator Agent (LangGraph)
 │ • Research Agent   │ ←→ Redis Cache
 │ • Tracker Agent    │
 └────────────────────┘
-
+```
 ## 📁 Project Structure
+```
 education-agent-system/
 ├── backend/
 │   ├── app/
@@ -56,6 +58,7 @@ education-agent-system/
 │   ├── public/
 │   └── package.json
 └── README.md
+```
 
 ## 🚀 Quick Start
 
@@ -108,22 +111,24 @@ Qdrant Dashboard: http://localhost:6333/dashboard
 📸 Screenshots
 Learning Interface
 
-<img width="813" height="864" alt="image" src="https://github.com/user-attachments/assets/ad31f909-70f7-4bfa-b0b9-39a94ce5f377" />
+![Screenshot](image.png)
 
-<img width="1837" height="877" alt="image" src="https://github.com/user-attachments/assets/55f11ad5-481c-4fdb-b885-e74294a5766b" />
+![Screenshot](image-1.png)
+
 
 Adaptive explanations based on student level
 Quiz System
 
-<img width="1196" height="710" alt="image" src="https://github.com/user-attachments/assets/c89a0ccd-7d79-4ce9-b890-b95d5c554bae" />
+![Screenshot](image-2.png)
 
 Dynamic quiz generation with immediate feedback
 Material
-<img width="1141" height="723" alt="image" src="https://github.com/user-attachments/assets/ca74f2ba-83ba-48a2-8554-fbbe1be96448" />
+
+![Screenshot](image-3.png)
 
 Progress Tracking
 
-<img width="1861" height="740" alt="image" src="https://github.com/user-attachments/assets/d532421b-51fe-48c0-8dda-3a854176c6cc" />
+![Screenshot](image-4.png)
 
 Comprehensive analytics and learning insights
 🔧 Configuration
