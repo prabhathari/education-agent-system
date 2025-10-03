@@ -1,4 +1,4 @@
-<img width="813" height="864" alt="image" src="https://github.com/user-attachments/assets/5e06a2e6-e5e8-4400-b485-117d7e6b86e8" /># 🎓 Multi-Agent Education System with RAG
+ 🎓 Multi-Agent Education System with RAG
 
 An intelligent tutoring system powered by multiple AI agents that work together to create personalized learning experiences. Built with LangGraph for agent orchestration, Qdrant for vector storage, Redis for caching, and Groq's LLMs for content generation.
 
@@ -107,6 +107,7 @@ Qdrant Dashboard: http://localhost:6333/dashboard
 
 📸 Screenshots
 Learning Interface
+
 <img width="813" height="864" alt="image" src="https://github.com/user-attachments/assets/ad31f909-70f7-4bfa-b0b9-39a94ce5f377" />
 
 <img width="1837" height="877" alt="image" src="https://github.com/user-attachments/assets/55f11ad5-481c-4fdb-b885-e74294a5766b" />
