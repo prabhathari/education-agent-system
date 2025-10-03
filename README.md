@@ -2,7 +2,6 @@
 
 An intelligent tutoring system powered by multiple AI agents that work together to create personalized learning experiences. Built with LangGraph for agent orchestration, Qdrant for vector storage, Redis for caching, and Groq's LLMs for content generation.
 
-![System Architecture](./docs/images/architecture.png)
 
 ## ✨ Features
 
