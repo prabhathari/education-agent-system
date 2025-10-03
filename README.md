@@ -111,7 +111,7 @@ Qdrant Dashboard: http://localhost:6333/dashboard
 📸 Screenshots
 Learning Interface
 
-<img src="https://github.com/prabhathari/education-agent-system/blob/main/image.png" alt="Learning Interface">
+![Learning Interface](image.png)
 
 ![Learning Interface](https://github.com/prabhathari/education-agent-system/raw/main/image-1.png)
 
