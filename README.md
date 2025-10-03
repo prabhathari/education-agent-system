@@ -111,26 +111,24 @@ Qdrant Dashboard: http://localhost:6333/dashboard
 📸 Screenshots
 Learning Interface
 
-<img width="790" height="855" alt="image" src="https://github.com/user-attachments/assets/160c4115-c885-44a3-816b-c3d5de4c79c7" />
+![Learning Interface](https://github.com/prabhathari/education-agent-system/raw/main/image.png)
 
-
-![Education Agent System](https://github.com/prabhathari/education-agent-system/blob/main/image-1.png?raw=true)
-
+![Learning Interface](https://github.com/prabhathari/education-agent-system/raw/main/image-1.png)
 
 
 Adaptive explanations based on student level
 Quiz System
 
-![Screenshot](image-2.png)
+![Quiz System](https://github.com/prabhathari/education-agent-system/raw/main/image-2.png)
 
 Dynamic quiz generation with immediate feedback
 Material
 
-![Screenshot](image-3.png)
+![Material](https://github.com/prabhathari/education-agent-system/raw/main/image-3.png)
 
 Progress Tracking
 
-![Screenshot](image-4.png)
+![Progress Tracking](https://github.com/prabhathari/education-agent-system/raw/main/image-4.png)
 
 Comprehensive analytics and learning insights
 🔧 Configuration
