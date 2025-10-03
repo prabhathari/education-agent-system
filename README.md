@@ -113,7 +113,8 @@ Learning Interface
 
 ![Screenshot](image.png)
 
-![Screenshot](image-1.png)
+![Education Agent System](https://github.com/prabhathari/education-agent-system/blob/main/image-1.png?raw=true)
+
 
 
 Adaptive explanations based on student level
